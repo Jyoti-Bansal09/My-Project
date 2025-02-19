@@ -1,4 +1,4 @@
 # My-Project
 It's my first repository
 <br>
-Author: Jyoti Bansal
+Author: Jyoti aggarwal
